@@ -1,0 +1,6 @@
+interface:
+  display_name: "TCM Theory Paper"
+  short_description: "Plan, draft, and audit TCM theory papers."
+  default_prompt: "Use $tcm-theory-discussion-paper to plan and audit a Chinese TCM theory discussion manuscript."
+policy:
+  allow_implicit_invocation: true
